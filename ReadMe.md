@@ -1,4 +1,4 @@
-## 我的Lecture Journay spring2018
+## 我的Lecture Journey spring2018
 
 * [20171211 非领导职务的功能与作用]()  **香港城市大学公共行政系 陈汉宣**
 
