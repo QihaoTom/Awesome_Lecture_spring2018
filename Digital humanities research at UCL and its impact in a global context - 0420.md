@@ -33,6 +33,7 @@
 
 ### the great parchment book
 * perceived | 
-
-
-
+* **co-occurance count**
+* visual identity
+* cultural icons
+* symbols differ in meaning
