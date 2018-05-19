@@ -11,3 +11,4 @@
 * [20180420  Digital humanities research at UCL]()  **UCL DH**
 * [20180504 被管制的艺术：明代福建沿海地区的军户与卫所]() **Harvard 宋怡明**
 * [20180506 实证政治科学]() **台湾大学 黄旻华**
+* [20180512 Does the Geograph Matter? A Study of Technological Learning in Solar PV Balance-of-System Innovation]() **UT 高雪**
