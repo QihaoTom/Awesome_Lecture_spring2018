@@ -12,3 +12,5 @@
 * [20180504 被管制的艺术：明代福建沿海地区的军户与卫所]() **Harvard 宋怡明**
 * [20180506 实证政治科学]() **台湾大学 黄旻华**
 * [20180512 Does the Geograph Matter? A Study of Technological Learning in Solar PV Balance-of-System Innovation]() **UT 高雪**
+* [20180518 Subnational Governments' Fiscal Health](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/Subnational%20Governments'%20Fiscal%20Health%20%7C%200518.md) 
+* [20180519 东大健康社会学青年论坛](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/东大健康社会学青年论坛%20%7C%200519.md) 
