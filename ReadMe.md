@@ -10,8 +10,8 @@
 * [20180418  学问的冒险 我与社会学]()  **清华大学社会学系 严飞**
 * [20180420  Digital humanities research at UCL]()  **UCL DH**
 * [20180504 被管制的艺术：明代福建沿海地区的军户与卫所]() **Harvard 宋怡明**
-* [20180506 实证政治科学]() **台湾大学 黄旻华**
+* [20180506 实证政治科学]() **台湾大学政治学系 黄旻华**
 * [20180512 Does the Geograph Matter? A Study of Technological Learning in Solar PV Balance-of-System Innovation]() **UT 高雪**
 * [20180518 Subnational Governments' Fiscal Health](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/Subnational%20Governments'%20Fiscal%20Health%20%7C%200518.md) 
 * [20180519 东大健康社会学青年论坛](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/东大健康社会学青年论坛%20%7C%200519.md) 
-* [20180525 Hypothesizing After the Results are Known]() **香港中文大学 罗森强**
+* [20180525 Hypothesizing After the Results are Known]() **香港中文大学管理学系 罗森强**
