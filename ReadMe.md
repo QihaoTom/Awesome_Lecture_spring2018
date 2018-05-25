@@ -14,3 +14,4 @@
 * [20180512 Does the Geograph Matter? A Study of Technological Learning in Solar PV Balance-of-System Innovation]() **UT 高雪**
 * [20180518 Subnational Governments' Fiscal Health](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/Subnational%20Governments'%20Fiscal%20Health%20%7C%200518.md) 
 * [20180519 东大健康社会学青年论坛](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/东大健康社会学青年论坛%20%7C%200519.md) 
+* [20180525 Hypothesizing After the Results are Known]() **香港中文大学 罗森强**
