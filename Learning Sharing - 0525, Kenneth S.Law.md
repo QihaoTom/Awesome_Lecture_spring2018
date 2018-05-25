@@ -43,7 +43,7 @@
 * **curvilinear**
 * DVs
 * counter-intuitive
-* **Hypothesizing After the Results are Known**
+* **[Hypothesizing After the Results are Known](https://www.researchgate.net/publication/314107670_Debate-Hypothesis_testing_in_hydrology_Theory_and_practice)**
 * 如果已有理论在美国成立，拿来中国做，如果一致，那么其实没有什么意思：最好的状态就是，发现，在不同情景下，有不一样的结果
 * proposed answer
 * Corporation Social Responsibility (CSR)
