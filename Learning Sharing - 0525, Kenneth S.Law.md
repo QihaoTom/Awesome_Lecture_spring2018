@@ -1,6 +1,10 @@
-## Learning Sharing | 0525, Kenneth S.Law
+## Learning Sharing | 0525, [Kenneth S.Law](http://www.bschool.cuhk.edu.hk/index.php/schools-departments/management/faculty/full-time-faculty?pid=696&sid=236:Law-Kenneth-S)
 
+<<<<<<< HEAD
 ### Exploration (创新、探索) + Exploition (利用)
+=======
+### Exploration (创新、探索) + Exploition
+>>>>>>> 9962b0ebe476af0fbdfbe108f841f6b0a59a5fbe
 * the job of a reserach
  * discover questions
  * propose possible answers
@@ -43,7 +47,7 @@
 * **curvilinear**
 * DVs
 * counter-intuitive
-* **Hypothesizing After the Results are Known**
+* **[Hypothesizing After the Results are Known](https://www.researchgate.net/publication/314107670_Debate-Hypothesis_testing_in_hydrology_Theory_and_practice)**
 * 如果已有理论在美国成立，拿来中国做，如果一致，那么其实没有什么意思：最好的状态就是，发现，在不同情景下，有不一样的结果
 * proposed answer
 * Corporation Social Responsibility (CSR)
