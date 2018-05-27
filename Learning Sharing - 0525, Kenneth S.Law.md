@@ -1,6 +1,6 @@
 ## Learning Sharing | 0525, Kenneth S.Law
 
-### Exploration (创新、探索) + 
+### Exploration (创新、探索) + Exploition (利用)
 * the job of a reserach
  * discover questions
  * propose possible answers
