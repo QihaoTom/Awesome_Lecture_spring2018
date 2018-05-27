@@ -1,6 +1,6 @@
 ## Learning Sharing | 0525, [Kenneth S.Law](http://www.bschool.cuhk.edu.hk/index.php/schools-departments/management/faculty/full-time-faculty?pid=696&sid=236:Law-Kenneth-S)
 
-### Exploration (创新、探索) + 
+### Exploration (创新、探索) + Exploition
 * the job of a reserach
  * discover questions
  * propose possible answers
