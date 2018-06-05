@@ -16,3 +16,4 @@
 * [20180519 东大健康社会学青年论坛](https://github.com/QihaoTom/Awesome_Lecture_spring2018/blob/master/东大健康社会学青年论坛%20%7C%200519.md) 
 * [20180525 Hypothesizing After the Results are Known]() **香港中文大学管理学系 罗森强**
 * [20180527 商院工商管理系华五博士生论坛]() 
+* [20180601 Prosocial Values of Top Executives and Corporate Governance in China]() **Arizona State University 朱洪泉**
