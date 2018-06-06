@@ -17,4 +17,4 @@
 * [20180525 Hypothesizing After the Results are Known]() **香港中文大学管理学系 罗森强**
 * [20180527 商院工商管理系华五博士生论坛]() 
 * [20180601 Prosocial Values of Top Executives and Corporate Governance in China]() **Arizona State University 朱洪泉**
-* [20180606 社会调查研究与自然实验] **Harvard University department of government 王裕华**
+* [20180606 社会调查研究与自然实验]() **Harvard University department of government 王裕华**
