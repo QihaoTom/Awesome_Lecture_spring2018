@@ -19,4 +19,4 @@
 * [20180601 Prosocial Values of Top Executives and Corporate Governance in China]() **Arizona State University 朱洪泉**
 * [20180606 社会调查研究与自然实验]() **Harvard University department of government [王裕华](https://scholar.harvard.edu/yuhuawang)**
 * [20180607 When do creative employees become unethical for their organization? Moderating effects of performance pressure and moral identity]() **Rutgers University 陈昭全**
-* [20180625 中国社会变迁过程中的文化与心理变化]（)  **中科院心理研究所 蔡华俭**
+* [20180625 中国社会变迁过程中的文化与心理变化]()  **中科院心理研究所 蔡华俭**
